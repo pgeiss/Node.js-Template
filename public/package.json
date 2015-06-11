@@ -1,0 +1,22 @@
+{
+  "name": "Node.js Template",
+  "version": "1.0.0",
+  "description": "A simple starting point for a Node.js webserver.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "localhost": "node localhost.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pgeiss/Node.js-template"
+  },
+  "author": "Peter Geiss",
+  "license": "MIT"
+}
