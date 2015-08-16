@@ -1,1 +1,7 @@
 /node_modules
+
+Nodejs_Template_without_example.zip
+
+*.zip
+
+npm-debug.log
